@@ -1,0 +1,27 @@
+body{
+        background-color: rgb(180, 197, 247);
+        text-align: center;
+}
+h1{
+       color: rgb(6, 6, 94);
+       font-family: Arial, Helvetica, sans-serif;
+}
+button{
+        background-color: rgb(180, 197, 247);
+        color: rgb(0, 0, 0);
+        padding: 10px 25px;
+               text-align: center;
+               text-decoration: none;
+               display: inline-block;
+               font-size: 20px;
+               margin: 8px 4px;
+               cursor: pointer;
+               border-radius: 30px;
+        
+}
+button:hover {box-shadow: 0 12px 16px 0 rgba(0,0,0,1), 0 17px 50px 0 rgba(0,0,0,1);}
+        button {margin-left: auto;
+                margin-right: auto; 
+                width: 50em;
+        }
+
